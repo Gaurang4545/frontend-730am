@@ -36,14 +36,8 @@ a b {
     font-size: 25px;
     margin-top: 13px;
 }
-.blink_logo {
-    animation: blinker 3s infinite;
-}
-@keyframes blinker {
-    50% {
-        opacity: 0.1;
-    }
-}
+
+
 .navbar {
     width: 70%;
     height: 60px;
